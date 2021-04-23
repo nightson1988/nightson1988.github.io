@@ -3,4 +3,19 @@ layout: me
 title: 关于我
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+曾经的甜食+肉食厨子，现在的30+ED患者。
+
+历史菜单：
+AL/VO：指环王·阿拉贡X莱戈拉斯
+光嬴：棋魂·时光X褚嬴
+佳昱：声入人心·马佳X蔡程昱
+棋昱：声入人心·龚子棋X蔡程昱
+超龙：声入人心·张超X郑云龙
+嘎龙：声入人心·阿云嘎X郑云龙
+郅摩：热血长安·李郅X萨摩多罗
+策藏：剑侠情缘网络版三·天策X藏剑
+铁山：剑侠情缘网络版三·铁牢X山居
+傲问：剑侠情缘网络版三·傲血X问水
+李叶：剑侠情缘网络版三·李承恩X叶英
+戚顾：逆水寒·戚少商X顾惜朝
+仙流：SLAMDUNK·仙道X流川枫
