@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: 棋魂
+tags: 
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
