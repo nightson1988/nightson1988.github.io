@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: 棋魂
+tags: 
 ---
 
 ## Lorem Ipsum
